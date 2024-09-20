@@ -10,7 +10,7 @@ CLIP-AGIQA is a CLIP-based regression model for quality assessment of generated 
 
 <img src="https://github.com/wzczc/picgo-imgbed/blob/main/img/example.png" style="zoom:50%;" />
 
-### Dependencies and Installation
+## Dependencies and Installation
 
 This repo is based on [CoOp](https://github.com/KaiyangZhou/CoOp). Follow [this](https://github.com/KaiyangZhou/CoOp?tab=readme-ov-file#how-to-install) to install.
 
