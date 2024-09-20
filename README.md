@@ -1,6 +1,6 @@
 # CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP
 
-This is the official repo of our ICPR2024 paper [CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP]().
+This is the official repo of our ICPR2024 paper [CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP](https://arxiv.org/abs/2408.15098).
 
 ## Intruction
 
